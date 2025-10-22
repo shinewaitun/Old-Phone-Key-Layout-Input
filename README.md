@@ -34,8 +34,7 @@ This project implements a C# program that simulates old mobile phone keypads, wh
 ## Usage
 Run the program and provide an input string representing keypress sequences. Example:
 ```csharp
-string result = OldPhonePad("4433555 555666#");
-Console.WriteLine(result);
+Enter number (must be end with #): 4433555 555666#
 ```
 Expected Output:
 ```
